@@ -1,12 +1,14 @@
-# Yandex Training 3.0
-
-Here You can find solution (on `python`) to all problems from 
+# 📋 Content
+Here you can find solution (on `python`) to **all** problems from 
 [**[Yandex Training 3.0]**](https://yandex.ru/yaintern/algorithm-training)
 
+## </> `template.py`
 For convenience, You can use my `template.py`, in which you only need to change 
 the `solve` function. It is designed not to care about input and output speed
 (it is automatically done as fast as possible).
 *Yes, in some tasks this is important...*
+
+## 💫 "Tricks"
 
 Top of my **conclusions** on this context:
 - `input/output` is an indispensable part of the task; you need to think about how fast you read and write data; 
