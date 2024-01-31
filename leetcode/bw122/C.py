@@ -8,5 +8,5 @@ class Solution:
             if num > m and num % m:
                 return 1
     
-        return (cnt_m + 1) // 2        
+        return (cnt_m + 1) // 2
         
